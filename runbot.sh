@@ -1,9 +1,9 @@
 #!/usr/bin/env sh
 
 # Set Environment Variables
-export HUBOT_IRC_NICK=my_stoopid_bot
-export HUBOT_IRC_SERVER=irc.freenode.net
-export HUBOT_IRC_ROOMS="#my_stoopid_bots_lair"
+export HUBOT_IRC_NICK=hubotkun
+export HUBOT_IRC_SERVER=irc.o-in.dwango.co.jp
+export HUBOT_IRC_ROOMS="#team-yankee, #test_bot"
 
 # Using SSL?
 #export HUBOT_IRC_PORT=6697
